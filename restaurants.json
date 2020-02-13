@@ -1,0 +1,14 @@
+[
+{
+	"name": "Italian Restaurant",
+	"category":"Italian",
+	"address":"",
+	"mealOptions":
+	[
+		"mealName":"Spaghetti",
+		"price":200
+	]
+},
+{
+}
+]
