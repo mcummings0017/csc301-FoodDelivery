@@ -1,14 +1,47 @@
 [
-{
-	"name": "Italian Restaurant",
-	"category":"Italian",
-	"address":"",
-	"mealOptions":
-	[
-		"mealName":"Spaghetti",
-		"price":200
-	]
-},
-{
-}
+    {
+        "name": "Italian Restaurant",
+        "category": "Italian",
+        "address": "123",
+        "mealOptions": [
+            {
+                "mealName": "Spaghetti",
+                "price": 200
+            },
+            {
+                "mealName": "Meal2",
+                "price": 300
+            }
+        ]
+    },
+    {
+        "name": "Italian Restaurant",
+        "category": "Italian",
+        "address": "123",
+        "mealOptions": [
+            {
+                "mealName": "Spaghetti",
+                "price": 200
+            },
+            {
+                "mealName": "Meal2",
+                "price": 300
+            }
+        ]
+    },
+    {
+        "name": "Italian Restaurant",
+        "category": "Italian",
+        "address": "123",
+        "mealOptions": [
+            {
+                "mealName": "Spaghetti",
+                "price": 200
+            },
+            {
+                "mealName": "Meal2",
+                "price": 300
+            }
+        ]
+    }
 ]
