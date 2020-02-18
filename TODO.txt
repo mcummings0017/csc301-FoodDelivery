@@ -1,0 +1,4 @@
+create json file for category
+filter list of restaurants based on category
+create php file for handling multiple orders and can delete orders
+create php file for admin order list
