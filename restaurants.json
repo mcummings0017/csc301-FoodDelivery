@@ -43,5 +43,20 @@
                 "price": 300
             }
         ]
+    },
+    {
+        "name": "1111",
+        "category": "1111",
+        "address": "11111",
+        "mealOptions": [
+            {
+                "mealName": "meal1",
+                "price": "10"
+            },
+            {
+                "mealName": "meal2",
+                "price": "20"
+            }
+        ]
     }
 ]
