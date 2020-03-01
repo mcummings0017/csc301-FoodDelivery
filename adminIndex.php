@@ -37,8 +37,7 @@ $restaurants=jsonToArray('restaurants.json');
 							<p >Price: '.$meals[$j]['price'].'</p>';
 						}
 						echo '<a href="editRestaurant.php?id='.$i.'">Edit</a>';
-						echo '<a href="addMeal.php?id='.$i.'">Add Meal</a>';
-						echo '<a href="deleteMeal.php?id='.$i.'">Delete Meal</a>';
+						echo '<a href="addMeal.php?id='.$i.'">Edit Meal Options</a>';
 						echo '<a href="deleteRestaurant.php?id='.$i.'">Delete</a>';
 						echo '
 					  </div>

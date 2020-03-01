@@ -50,44 +50,8 @@
         "address": "11111",
         "mealOptions": [
             {
-                "mealName": "1",
-                "price": "1"
-            },
-            {
-                "mealName": "2",
-                "price": "2"
-            },
-            {
-                "mealName": "3",
-                "price": "3"
-            },
-            {
-                "mealName": "4",
-                "price": "4"
-            },
-            {
-                "mealName": "5",
-                "price": "5"
-            },
-            {
-                "mealName": "6",
-                "price": "6"
-            },
-            {
-                "mealName": "7",
-                "price": "7"
-            },
-            {
-                "mealName": "8",
-                "price": "8"
-            },
-            {
-                "mealName": "Name2",
-                "price": "222"
-            },
-            {
-                "mealName": "111",
-                "price": "111"
+                "mealName": "meal1",
+                "price": "123"
             }
         ]
     }
