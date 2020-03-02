@@ -1,9 +1,16 @@
 [
-{
-	"restaurant":"",
-	"item":"",
-	"email":"",
-	"shippindAddress":"",
-	"status":"",
-}
+    {
+        "restaurant": "Italian Restaurant",
+        "item": "Meal 2",
+        "email": "",
+        "shippingAddress": "",
+        "status": "delivered"
+    },
+    {
+        "restaurant": "Spaghetti Restaurant",
+        "item": "Spaghetti",
+        "email": "email@example.org",
+        "shippingAddress": "2139 Example Route",
+        "status": "delivered"
+    }
 ]
