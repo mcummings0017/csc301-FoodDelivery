@@ -15,6 +15,9 @@ $restaurants=jsonToArray('restaurants.json');
     <title>Admin Home</title>
   </head>
   <body>
+  <?php
+  require_once('nav.php');
+  ?>
    <div class="container">
    <a href="createRestaurant.php" padding-right: 30px;>Create New Restaurant</a><br></br>
    <a href="orderlist.php" padding-right: 30px;>See Order List</a><br></br>
